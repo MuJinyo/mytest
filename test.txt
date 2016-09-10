@@ -1,0 +1,2 @@
+创建忽略文件
+touch .gitignore
