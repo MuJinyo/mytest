@@ -1,2 +1,11 @@
 创建忽略文件
 touch .gitignore
+推仓库里去
+链接远程仓库 git remote add origin
+
+
+查看远程仓库
+git remote -v
+
+git remote rm origin
+删除远程仓库-->这是在做出错误操作的时候，返回
